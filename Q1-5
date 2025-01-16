@@ -1,0 +1,99 @@
+# Q1:
+Turing's paper is a classic work in the field of artificial intelligence, and it raises many interesting and challenging issues. 
+
+objections that are still relevant today is  the argument from consciousness, the argument from various problems, and the mathematical objection are just a few of the concerns that Turing took into consideration and rejected in his article. The mathematical objection argues that certain issues, like Gödel's incompleteness theorems and the halting problem, are impossible for any machine to solve. According to the argument from consciousness, genuine feelings, emotions, and awareness necessary for intelligence cannot exist in robots. The argument based on different infirmities highlights the fact that computers do not come with human faculties like creativity, experience based learning, or common sense. These concerns cast doubt on the Turing test's definition of intelligence and highlight moral and social problems surrounding the development and use of intelligent robots in human-machine interaction. 
+
+Are his refutations valid? Turing's definitions and assumptions about thinking, computers, and intelligence serve as the foundation for his rejections. He thinks that intelligence is an operational term that is responsive to the situation and test requirements rather than a fixed or absolute one. Additionally, he believes that a machine's design and programming, not its physical or logical limitations, are what really limit it. He makes the argument that some of the challenges and restrictions that machines encounter can be addressed by advancements and modifications. Additionally, he suggests that thinking is a computer and social process that can be copied by computers rather than an unidentified or mysterious phenomenon... Although Turing's arguments are sound within his own framework and viewpoint, people with different ideas or expectations about intelligence, machines, and thought processes might not find them attractive or satisfying. 
+
+Can you think of new objections arising from developments since he wrote the paper? There have been many advances and developments in artificial intelligence as well as related subjects like neuroscience, psychology, philosophy, and sociology since Turing written his article. New challenges and criticisms of the Turing test have emerged as a result of these advancements, including the following: 
+
+The social intelligence objection: According to this complaint, the Turing test is too limited and limiting since it only considers the verbal and language aspects of intelligence, ignoring its social and emotional components. It contends that intelligence is a function of social interaction and communication, which entails the comprehension and expression of feelings, intentions, beliefs, values, conventions, and culture, in addition to individual cognition. It also makes the case that intelligence involves more than just knowing the right answers to questions; it also involves asking queries, starting up conversations, developing rapport, and so on. 
+
+Do you think his prediction is reasonable? Turing believed the state of artificial intelligence at the time and expected that by 2000, a machine would have a 30% chance of passing a five-minute Turing test conducted by an inexperienced interrogator. He also admitted that his forecast was not very accurate and that it depended on a number of other circumstances, including the skill of the interrogator, the availability of resources, the interest of the researchers, and the test's complexity. In the years since Turing's prediction was not realized in 2000, there have been several attempts and assertions to pass the Turing test, including the following: 
+
+The Eugene Goostman chatbot is a computer program that simulates a 13-year-old Ukrainian boy who enjoys having conversations about his life, family, interests, and viewpoints. A group of developers from Russia and Ukraine developed the program, which has taken part in multiple Turing test events, including the 2014 Turing Test Event at the Royal Society and the 2012 Turing Test Experiment at Bletchley Park. After a series of five-minute talks, the program claimed to have passed the Turing test in 2014, convincing three-quarters of the judges that it was human. Many experts and critics, however, refuted and exposed the weaknesses of the program, the exam, and the event, casting doubt on this claim. They claimed that the test was too brief and superficial for assessing intellect, that the program used its character and story to sidestep or divert challenging questions, and that the event was improperly regulated or verified to guarantee its authenticity and integrity.  
+
+Source: https://en.wikipedia.org/wiki/Eugene_Goostman 
+
+# Q2:
+Driving in the centre of Karachi. 
+AI technology is currently unable to handle the busy and unpredictable traffic conditions that are common in Karachi's major area.AI systems struggle in unstructured environments with unpredictable driving patterns and insufficient traffic markings exactly what is found in Karachi's city. 
+
+Playing a decent game of bridge at a competitive level. 
+ Although AI has the ability of showing strategic expertise in bridge gameplay as programs like Bridge Baron have shown it lacks the fundamental human abilities needed to succeed in elite contests. These include situational awareness, proficient use of bidding systems, and efficient communication in areas where AI is currently lacking. 
+
+Discovering and proving new mathematical theorems 
+AI is not yet able to investigate and verify novel mathematical theorems in an original and flexible way. While AI is adept at solving problems within developed limitations, it is not as capable as humans at exploring new areas and producing  mathematical breakthroughs. 
+
+Giving competent legal advice in a specialized area of law 
+Artificial intelligence is unable to provide knowledgeable legal advice in extremely specialized legal fields. In order to provide competent legal advice, AI still has to develop its human judgment, ability in interpreting legal complexities, and textawareness. 
+
+Translating spoken English into spoken Urdu in real time. 
+ While AI is capable of doing simple translation jobs with tools like Google Translate, it is not as good at capturing details of spoken language in real-time or cultural differences. As such, this could lead to awkward or improper translations, making it inappropriate for formal or high-stakes situations. 
+
+ 
+
+Q3:
+Domain: Smart Home Automation 
+Accessible: Because of restrictions on sensor range and detection capabilities within the house, the environment is only partially observable and accessible. For example, some sensors may not be able to detect events that are blocked by barriers or objects, which limits their accessibility and range of view. 
+Deterministic: Because the environment is unpredictable, it is impossible to forecast future states with certainty based solely on the present. Because the smart home environment is only partially observable, the AI system cannot anticipate all future events with accuracy. Uncertainties are introduced into the system by elements like human behavior fluctuations, equipment faults, or outside effects like power outages. 
+Episode-based: Smart home automation is based on a step-by-step process in which events and activities are carried out in separate episodes. Every action you do in relation to the environment, like changing the temperature or the lighting, might have long-lasting effects or set off other things. As a result, decisions made by the system are closely related to previous choices and results. 
+Static: The environment of a smart home is dynamic, always changing because of a wide range of elements such as user choices, time variances, and outside circumstances. The AI system may require constant adaptation due to changes in routines, new or removed devices, and changes in the environment. 
+Continuous: Considering a wide range of possible states and behaviors, the smart home environment is indeed continuous. To ensure smooth and effective functioning, the system must be able to handle a variety of scenarios with skill and react quickly to changes that occur in real time. 
+For smart home automation, the best agent architecture combines reactive methods with proactive planning and learning capabilities. This allows the AI system to instantly respond to sensor inputs and user demands, as well as adapt to historical data and forecast models. Using reinforcement learning and neural networks, the agent's decision-making improves with time. Techniques like probabilistic reasoning help the agent's ability to manage uncertainties in a changing smart home environment as well. 
+
+Q4:
+Exploring the subsurface of Arabian Sea. 
+
+P (Performance): Gather information (geological, biological, etc.), navigate securely, and successfully return to the surface.  
+E (Environment): A subsurface area with changing pressure, visibility, currents, and possible hazards as well as poor communication
+A (Actuators): Robotic arms/manipulators, underwater controls (movements, lights, sensors).  
+S (Sensors): sonar technology, cameras, chemical sensors, temperature sensors, and water pressure gauges
+
+Knitting a sweater. 
+P (Performance): Make the sweater in the required size, style, and quality, and finish it in a certain period
+E (Environment): Workspace, different lighting, yarn, knitting needles, and pattern instructions 
+A (Actuators): Yarn and needle manipulation; hands, fingers; instruments (needle gauge, scissors)
+S (Sensors): Proprioception (hand/arm position), vision, touch (fiber texture, needle position), and pattern instructions
+
+Performing a high jump. 
+P (Performance): Land safely, jump over a bar at a predetrmined height, and reduce the chance of getting hurt.  
+E (Environment): High jump bar, landng mat, track, rival competitors, and different weather.  
+A (Actuators): Control of breathing, body motions, arms, and legs.  
+S (Sensors): muscle tension, sense of balance (body position, speed), vision (bar height, runway markings), and maintaining receptors. 
+
+Bidding on an item at an auction.  
+P (Performance): Manage risk, maintain to a fixed budget, avoid spending too much, and acquire the desired goods at the best price 
+E (Environment): Online or physical auction platform; bidders; auctioneer; time constraints; increments in bidding; item details 
+A (Actuators): Tools to control budgts, indirector digital bidding orders, and contact with the auctioneer
+S (Sensors): texts (item description, bids), audio data (auctioner, bids), visual data (item, bids, timer), and feedback from actions
+
+Shopping for used AI books on the Internet.  
+P (Performance): Find the books you want at a reasonable price, finish the transaction smoothly, stay away from scams
+E (Environment): Product descriptions,user reviews, price differences between different sellers, and online marketplaces (websites, apps)
+A (Actuators): Keyboard, mouse,touch screen,filters, bidding and purchasing activities, and seller communication
+S (Sensors): texts (pricing, reviews), visual information (product photos, descriptions), user interface components, and action-based feedback
+
+
+Q5:
+There exists a task environment in which every agent is rational. 
+FALSE: 
+Counterexample: imagine a situation where goals are at odds. From the point of view of another target, an agent that fulfills one could be considered illogical. It may not always be possible to align with all relevant goals in order show perfect logic. 
+
+The input to an agent program is the same as the input to the agent function. 
+FALSE:  
+The agent program receives perceptual  information, while the agent function receives the statethe whole state of the world, which may or may not be known as input. The reason they difference is due to the state is part of the perception. 
+
+Suppose an agentselects its action uniformly at randomfrom the set of possible actions. There exists a 
+deterministic task environment in which this agent is rational. 
+TRUE: 
+but need some conditions   
+Example: If an agent learns to choose the rewarding action based on its experiences, random selection could reach rationality in asimple setting with only two acts that result given  in  reward and a punishment. 
+
+It is possible for a given agent to be perfectly rational in two distinct task environments. 
+TRUE : 
+EXAMPLE: An agent trained in chess might be fully rational in that setting, but not in checkers, a very different game having different methods and abilities. 
+
+Every agent function isimplementable by some program/machine combination. 
+TRUE : 
+There are limitations, but a program/machine combination can accomplish the majority of agent functions. Complex functions may call for hardware that is over current capabilities or large computing power. 
